@@ -1,3 +1,8 @@
+# This is a NETFLIX clone made with REACT and FIREBASE.
+# To view this website visit the following link:
+https://netflix-clone-fc7ea.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
