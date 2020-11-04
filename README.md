@@ -1,6 +1,6 @@
-# This is a NETFLIX clone made with REACT and FIREBASE.
-# To view this website visit the following link:
-https://netflix-clone-fc7ea.web.app/
+## This is a NETFLIX clone made with REACT and FIREBASE.
+## To view this website visit the following link:
+#### https://netflix-clone-fc7ea.web.app/
 
 
 # Getting Started with Create React App
