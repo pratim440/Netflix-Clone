@@ -1,0 +1,34 @@
+.nav {
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+  padding: 4px 60px 0 30px;
+  z-index: 1;
+  height: 4rem;
+  align-items: center;
+  transition: all 0.5s;
+  transition-timing-function: ease-in;
+}
+.nav_black {
+  background-color: #111;
+}
+.logo {
+  height: 2rem;
+  object-fit: contain;
+}
+.avatar {
+  margin-right: 80px;
+  height: 2.5rem;
+  object-fit: contain;
+}
+@media (max-width: 768px) {
+  .logo {
+    height: 1.5rem;
+  }
+  .avatar {
+    height: 1.9rem;
+    margin-right: 60px !important;
+  }
+}
